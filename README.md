@@ -1,6 +1,8 @@
-Link for the Landing Page
+# Link for the Landing Page
 https://earthlylandingpage.netlify.app/
 
+# Description of project 
+A responsive webpage with scroll animations using ReactJS.
 
 
 # Getting Started with Create React App
